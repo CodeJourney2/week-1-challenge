@@ -11,7 +11,7 @@ TO ACCESS THIS WEBSITE, PLEASE OPEN THE INDEX.HTML FILE CONTAINED IN THIS PROJEC
 ALTERNATIVELY, PLEASE FOLLOW THE LIVE WEBSITE LINK:
 https://codejourney2.github.io/week-1-challenge/
 
-<img> href="https://github.com/CodeJourney2/week-1-challenge/blob/main/Screenshot%202023-12-06%20160634.png?raw=true"</img>
+![screeshot of webpage](https://github.com/CodeJourney2/week-1-challenge/blob/main/Screenshot%202023-12-06%20160634.png?raw=true)
 
 
 CREDITS
